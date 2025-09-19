@@ -1,3 +1,7 @@
+![Excel](https://img.shields.io/badge/Tool-Excel-green) 
+![Google Sheets](https://img.shields.io/badge/Tool-GoogleSheets-blue) 
+![ALX Africa](https://img.shields.io/badge/Project-ALX-yellow)
+
 # 🌍 Integrated Project 2 – Global Water Access (2000–2020)
 
 ---
@@ -134,3 +138,4 @@ We calculate **Annual Rates of Change (ARC)**, compare **rural vs urban access**
 - Many columns contain **Excel formulas** (`IF`, `IFERROR`, `ROUND`) to handle missing data and categorize access.  
 - Some observations have `null` values.  
 - Country name consistency is crucial for merging datasets.  
+
