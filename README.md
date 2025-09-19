@@ -62,10 +62,6 @@ This project is part of the **Integrated Project 2** under **[ALX Africa / Explo
 ### 2️⃣ Project 2 Work – [Data Folder](./data)
 - **Transformed_Dataset.xlsx** – Dataset with all calculated fields, ARC metrics, rounded access, and regional identifiers.  
 - **Summary_Report.xlsx** – Aggregated statistics, regional summaries, visualizations, and insights.  
-
-**Example Visual**:  
-![Example Histogram](./data/histogram_example.png)  
-
 ---
 
 ## 🔹 Analysis Steps (Google Sheets)
@@ -141,4 +137,5 @@ This project is part of the **Integrated Project 2** under **[ALX Africa / Explo
 - Consistency in country names is crucial for merges.  
 
 ---
+
 
