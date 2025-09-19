@@ -1,4 +1,4 @@
-# 🌍 Integrated Project 2 – Global Water Access (2000–2020)
+# 🌍 Integrated Project Part 2 – Global Water Access (2000–2020)
 
 ---
 
@@ -137,5 +137,6 @@ This project is part of the **Integrated Project 2** under **[ALX Africa / Explo
 - Consistency in country names is crucial for merges.  
 
 ---
+
 
 
